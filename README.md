@@ -218,4 +218,4 @@ StarCraft: Remastered is the full free version of the game, with all features an
 Download StarCraft: Remastered now and join the ranks of players battling for supremacy in the galaxy!
 
 ---
-**Last updated:** 2026-10-22 22:10:02 UTC
+**Last updated:** 2026-10-23 01:17:29 UTC
